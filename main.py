@@ -2,7 +2,7 @@ import mysqlFunc
 
 
 def main():
-    sql_file_path = "oneflow_db.sql"
+    sql_file_path = "oneflowDB.sql"
 
     table_mappings = {
         "user": "user_analytics",
